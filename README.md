@@ -1,7 +1,6 @@
 # Certificado_Java_2
 Certificados de Java 
 
-![java_1](https://github.com/user-attachments/files/20662495/J9AFGTZD.pdf)
 <br>
 [J3KA7EGK.pdf](https://github.com/user-attachments/files/20662498/J3KA7EGK.pdf)
 <br>
