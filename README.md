@@ -1,11 +1,12 @@
 # Certificado_Java_2
 Certificados de Java 
 
+![java_1](https://github.com/user-attachments/assets/ec4865d0-4247-4afa-b04c-2441e542166e)
 <br>
-[J3KA7EGK.pdf](https://github.com/user-attachments/files/20662498/J3KA7EGK.pdf)
+![Java_2_page-0001](https://github.com/user-attachments/assets/7bb87cc5-73ac-4be7-ac55-e61738f839ae)
 <br>
-[GVWRTPSF.pdf](https://github.com/user-attachments/files/20662499/GVWRTPSF.pdf)
+![Java_3_page-0001](https://github.com/user-attachments/assets/7f7ab01b-557d-4f12-8f1a-8722212d3819)
 <br>
-[CSE27T71.pdf](https://github.com/user-attachments/files/20662500/CSE27T71.pdf)
+![Java_4_page-0001](https://github.com/user-attachments/assets/b8b4d773-f164-471a-97e9-4813cfffe1df)
 <br>
-[PNFMCHY9.pdf](https://github.com/user-attachments/files/20662504/PNFMCHY9.pdf)
+![Java_5_page-0001](https://github.com/user-attachments/assets/0f7be6a5-9d31-4c3b-abdd-48a86f1037dd)
