@@ -1,12 +1,4 @@
 # Certificado_Java_2
 Certificados de Java 
 
-![java_1](https://hermes.dio.me/certificates/PNFMCHY9.pdf)
-<br>
-![Java_2_page-0001](https://github.com/user-attachments/assets/7bb87cc5-73ac-4be7-ac55-e61738f839ae)
-<br>
-![Java_3_page-0001](https://github.com/user-attachments/assets/7f7ab01b-557d-4f12-8f1a-8722212d3819)
-<br>
-![Java_4_page-0001](https://github.com/user-attachments/assets/b8b4d773-f164-471a-97e9-4813cfffe1df)
-<br>
-![Java_5_page-0001](https://github.com/user-attachments/assets/0f7be6a5-9d31-4c3b-abdd-48a86f1037dd)
+![Java_2](https://github.com/user-attachments/assets/99491a30-c8c4-4f96-8feb-b29b7f49aff8)
